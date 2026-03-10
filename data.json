@@ -1,136 +1,136 @@
-[ { "name": "Afghanistan", "right": true, "change": "1955" }, { "name":
-"Albania", "right": true, "change": "" }, { "name": "Algeria", "right": true,
-"change": "" }, { "name": "Andorra", "right": true, "change": "" }, { "name":
-"Angola", "right": true, "change": "1928" }, { "name": "Antigua and Barbuda",
-"right": false, "change": "" }, { "name": "Argentina", "right": true, "change":
-"1945" }, { "name": "Armenia", "right": true, "change": "" }, { "name":
-"Australia", "right": false, "change": "" }, { "name": "Austria", "right": true,
-"change": "1921–38" }, { "name": "Azerbaijan", "right": true, "change": "" }, {
-"name": "Bahamas", "right": false, "change": "" }, { "name": "Bahrain", "right":
-true, "change": "1967" }, { "name": "Bangladesh", "right": false, "change": ""
-}, { "name": "Barbados", "right": false, "change": "" }, { "name": "Bermuda",
-"right": false, "change": "" }, { "name": "Belarus", "right": true, "change": ""
-}, { "name": "Belgium", "right": true, "change": "1899" }, { "name": "Belize",
-"right": true, "change": "1961" }, { "name": "Benin", "right": true, "change":
-"" }, { "name": "Bhutan", "right": false, "change": "" }, { "name": "Bolivia",
-"right": true, "change": "" }, { "name": "Bosnia and Herzegovina", "right":
-true, "change": "1918" }, { "name": "Botswana", "right": false, "change": "" },
-{ "name": "Brazil", "right": true, "change": "1928" }, { "name": "Brunei",
-"right": false, "change": "" }, { "name": "Bulgaria", "right": true, "change":
-"" }, { "name": "Burkina Faso", "right": true, "change": "" }, { "name":
-"Burundi", "right": true, "change": "" }, { "name": "Cambodia", "right": true,
-"change": "" }, { "name": "Cameroon", "right": true, "change": "1961" }, {
-"name": "Canada", "right": true, "change": "1920–1947" }, { "name": "Cape Verde", "right": true, "change": "1928" }, { "name": "Central African Republic",
-"right": true, "change": "" }, { "name": "Chad", "right": true, "change": "" },
-{ "name": "Chile", "right": true, "change": "" }, { "name": "China (Mainland)",
-"right": true, "change": "1946" }, { "name": "Hong Kong", "right": false,
-"change": "" }, { "name": "Macau", "right": false, "change": "" }, { "name":
-"Colombia", "right": true, "change": "" }, { "name": "Comoros", "right": true,
-"change": "" }, { "name": "Congo", "right": true, "change": "" }, { "name": "DR Congo", "right": true, "change": "" }, { "name": "Costa Rica", "right": true,
-"change": "" }, { "name": "Ivory Coast", "right": true, "change": "" }, {
-"name": "Croatia", "right": true, "change": "1926" }, { "name": "Cuba", "right":
-true, "change": "" }, { "name": "Cyprus", "right": false, "change": "" }, {
-"name": "Czech Republic", "right": true, "change": "1939" }, { "name":
-"Denmark", "right": true, "change": "1793" }, { "name": "Djibouti", "right":
-true, "change": "" }, { "name": "Dominica", "right": false, "change": "" }, {
-"name": "Dominican Republic", "right": true, "change": "" }, { "name":
-"Ecuador", "right": true, "change": "" }, { "name": "Egypt", "right": true,
-"change": "" }, { "name": "El Salvador", "right": true, "change": "" }, {
-"name": "Equatorial Guinea", "right": true, "change": "" }, { "name": "Eritrea",
-"right": true, "change": "1964" }, { "name": "Estonia", "right": true, "change":
-"" }, { "name": "Eswatini", "right": false, "change": "" }, { "name":
-"Ethiopia", "right": true, "change": "1964" }, { "name": "Fiji", "right": false,
-"change": "" }, { "name": "Finland", "right": true, "change": "1858" }, {
-"name": "France", "right": true, "change": "1792" }, { "name": "Gabon", "right":
-true, "change": "" }, { "name": "Gambia", "right": true, "change": "1965" }, {
-"name": "Georgia", "right": true, "change": "" }, { "name": "Germany", "right":
-true, "change": "" }, { "name": "Ghana", "right": true, "change": "1974" }, {
-"name": "Greece", "right": true, "change": "1926" }, { "name": "Grenada",
-"right": false, "change": "" }, { "name": "Guatemala", "right": true, "change":
-"" }, { "name": "Guinea", "right": true, "change": "" }, { "name":
-"Guinea-Bissau", "right": true, "change": "1928" }, { "name": "Guyana", "right":
-false, "change": "" }, { "name": "Haiti", "right": true, "change": "" }, {
-"name": "Honduras", "right": true, "change": "" }, { "name": "Hungary", "right":
-true, "change": "1941" }, { "name": "Iceland", "right": true, "change": "1968"
-}, { "name": "India", "right": false, "change": "" }, { "name": "Indonesia",
-"right": false, "change": "" }, { "name": "Iran", "right": true, "change": "" },
-{ "name": "Iraq", "right": true, "change": "" }, { "name": "Ireland", "right":
-false, "change": "" }, { "name": "Israel", "right": true, "change": "" }, {
-"name": "Italy", "right": true, "change": "1924–26" }, { "name": "Jamaica",
-"right": false, "change": "" }, { "name": "Japan", "right": false, "change":
-"1924" }, { "name": "Jordan", "right": true, "change": "" }, { "name":
-"Kazakhstan", "right": true, "change": "" }, { "name": "Kenya", "right": false,
-"change": "" }, { "name": "Kiribati", "right": false, "change": "" }, { "name":
-"Kosovo", "right": true, "change": "" }, { "name": "Kuwait", "right": true,
-"change": "" }, { "name": "Kyrgyzstan", "right": true, "change": "" }, { "name":
-"Laos", "right": true, "change": "" }, { "name": "Latvia", "right": true,
-"change": "" }, { "name": "Lebanon", "right": true, "change": "" }, { "name":
-"Lesotho", "right": false, "change": "" }, { "name": "Liberia", "right": true,
-"change": "" }, { "name": "Libya", "right": true, "change": "" }, { "name":
-"Liechtenstein", "right": true, "change": "" }, { "name": "Lithuania", "right":
-true, "change": "" }, { "name": "Luxembourg", "right": true, "change": "" }, {
-"name": "Madagascar", "right": true, "change": "" }, { "name": "Malawi",
-"right": false, "change": "" }, { "name": "Malaysia", "right": false, "change":
-"" }, { "name": "Maldives", "right": false, "change": "" }, { "name": "Mali",
-"right": true, "change": "" }, { "name": "Malta", "right": false, "change": ""
-}, { "name": "Marshall Islands", "right": true, "change": "" }, { "name":
-"Mauritania", "right": true, "change": "" }, { "name": "Mauritius", "right":
-false, "change": "" }, { "name": "Mexico", "right": true, "change": "" }, {
-"name": "Micronesia", "right": true, "change": "" }, { "name": "Moldova",
-"right": true, "change": "" }, { "name": "Monaco", "right": true, "change": ""
-}, { "name": "Mongolia", "right": true, "change": "" }, { "name": "Montenegro",
-"right": true, "change": "" }, { "name": "Morocco", "right": true, "change": ""
-}, { "name": "Mozambique", "right": false, "change": "" }, { "name": "Myanmar",
-"right": true, "change": "1970" }, { "name": "Namibia", "right": false,
-"change": "1920" }, { "name": "Nauru", "right": false, "change": "1918" }, {
-"name": "Nepal", "right": false, "change": "" }, { "name": "Netherlands",
-"right": true, "change": "1906" }, { "name": "New Zealand", "right": false,
-"change": "" }, { "name": "Nicaragua", "right": true, "change": "" }, { "name":
-"Niger", "right": true, "change": "" }, { "name": "Nigeria", "right": true,
-"change": "1972" }, { "name": "North Korea", "right": true, "change": "1946" },
-{ "name": "North Macedonia", "right": true, "change": "" }, { "name": "Norway",
-"right": true, "change": "1793" }, { "name": "Oman", "right": true, "change": ""
-}, { "name": "Pakistan", "right": false, "change": "" }, { "name": "Palau",
-"right": true, "change": "" }, { "name": "Palestine", "right": true, "change":
-"" }, { "name": "Panama", "right": true, "change": "1943" }, { "name": "Papua New Guinea", "right": false, "change": "" }, { "name": "Paraguay", "right":
-true, "change": "1945" }, { "name": "Peru", "right": true, "change": "" }, {
-"name": "Philippines", "right": true, "change": "1946" }, { "name": "Poland",
-"right": true, "change": "1920s" }, { "name": "Portugal", "right": true,
-"change": "1928" }, { "name": "Qatar", "right": true, "change": "" }, { "name":
-"Romania", "right": true, "change": "1919" }, { "name": "Russia", "right": true,
-"change": "" }, { "name": "Rwanda", "right": true, "change": "" }, { "name":
-"Saint Kitts and Nevis", "right": false, "change": "" }, { "name": "Saint Lucia", "right": false, "change": "" }, { "name": "Saint Vincent and the Grenadines", "right": false, "change": "" }, { "name": "Samoa", "right": false,
-"change": "2009" }, { "name": "San Marino", "right": true, "change": "" }, {
-"name": "São Tomé and Príncipe", "right": true, "change": "1928" }, { "name":
-"Saudi Arabia", "right": true, "change": "1942" }, { "name": "Senegal", "right":
-true, "change": "" }, { "name": "Serbia", "right": true, "change": "1926" }, {
-"name": "Seychelles", "right": false, "change": "" }, { "name": "Sierra Leone",
-"right": true, "change": "1971" }, { "name": "Singapore", "right": false,
-"change": "" }, { "name": "Slovakia", "right": true, "change": "1939–41" }, {
-"name": "Slovenia", "right": true, "change": "1926" }, { "name": "Solomon Islands", "right": false, "change": "" }, { "name": "Somalia", "right": true,
-"change": "" }, { "name": "South Africa", "right": false, "change": "" }, {
-"name": "South Korea", "right": true, "change": "1946" }, { "name": "South Sudan", "right": true, "change": "1973" }, { "name": "Spain", "right": true,
-"change": "1924" }, { "name": "Sri Lanka", "right": false, "change": "" }, {
-"name": "Sudan", "right": true, "change": "1973" }, { "name": "Suriname",
-"right": false, "change": "1920s" }, { "name": "Sweden", "right": true,
-"change": "1967" }, { "name": "Switzerland", "right": true, "change": "" }, {
-"name": "Syria", "right": true, "change": "" }, { "name": "Taiwan", "right":
-true, "change": "1946" }, { "name": "Tajikistan", "right": true, "change": "" },
-{ "name": "Tanzania", "right": false, "change": "" }, { "name": "Thailand",
-"right": false, "change": "" }, { "name": "Timor-Leste", "right": false,
-"change": "1976" }, { "name": "Togo", "right": true, "change": "" }, { "name":
-"Tonga", "right": false, "change": "" }, { "name": "Trinidad and Tobago",
-"right": false, "change": "" }, { "name": "Tunisia", "right": true, "change": ""
-}, { "name": "Turkey", "right": true, "change": "" }, { "name": "Turkmenistan",
-"right": true, "change": "" }, { "name": "Tuvalu", "right": false, "change": ""
-}, { "name": "Uganda", "right": false, "change": "" }, { "name": "Ukraine",
-"right": true, "change": "1922" }, { "name": "United Arab Emirates", "right":
-true, "change": "1966" }, { "name": "United Kingdom", "right": false, "change":
-"" }, { "name": "United States", "right": true, "change": "" }, { "name":
-"Uruguay", "right": true, "change": "1945" }, { "name": "Uzbekistan", "right":
-true, "change": "" }, { "name": "Vanuatu", "right": true, "change": "" }, {
-"name": "Vatican City", "right": true, "change": "" }, { "name": "Venezuela",
-"right": true, "change": "" }, { "name": "Vietnam", "right": true, "change": ""
-}, { "name": "Western Sahara", "right": true, "change": "" }, { "name": "Yemen",
-"right": true, "change": "1977" }, { "name": "Zambia", "right": false, "change":
-"" }, { "name": "Zimbabwe", "right": false, "change": "" } ]
+[ { "name": "Afghanistan", "side": "right", "change": "1955" }, { "name":
+"Albania", "side": "right", "change": "" }, { "name": "Algeria", "side": "right",
+"change": "" }, { "name": "Andorra", "side": "right", "change": "" }, { "name":
+"Angola", "side": "right", "change": "1928" }, { "name": "Antigua and Barbuda",
+"side": "left", "change": "" }, { "name": "Argentina", "side": "right", "change":
+"1945" }, { "name": "Armenia", "side": "right", "change": "" }, { "name":
+"Australia", "side": "left", "change": "" }, { "name": "Austria", "side": "right",
+"change": "1921–38" }, { "name": "Azerbaijan", "side": "right", "change": "" }, {
+"name": "Bahamas", "side": "left", "change": "" }, { "name": "Bahrain", "side":
+"right", "change": "1967" }, { "name": "Bangladesh", "side": "left", "change": ""
+}, { "name": "Barbados", "side": "left", "change": "" }, { "name": "Bermuda",
+"side": "left", "change": "" }, { "name": "Belarus", "side": "right", "change": ""
+}, { "name": "Belgium", "side": "right", "change": "1899" }, { "name": "Belize",
+"side": "right", "change": "1961" }, { "name": "Benin", "side": "right", "change":
+"" }, { "name": "Bhutan", "side": "left", "change": "" }, { "name": "Bolivia",
+"side": "right", "change": "" }, { "name": "Bosnia and Herzegovina", "side":
+"right", "change": "1918" }, { "name": "Botswana", "side": "left", "change": "" },
+{ "name": "Brazil", "side": "right", "change": "1928" }, { "name": "Brunei",
+"side": "left", "change": "" }, { "name": "Bulgaria", "side": "right", "change":
+"" }, { "name": "Burkina Faso", "side": "right", "change": "" }, { "name":
+"Burundi", "side": "right", "change": "" }, { "name": "Cambodia", "side": "right",
+"change": "" }, { "name": "Cameroon", "side": "right", "change": "1961" }, {
+"name": "Canada", "side": "right", "change": "1920–1947" }, { "name": "Cape Verde", "side": "right", "change": "1928" }, { "name": "Central African Republic",
+"side": "right", "change": "" }, { "name": "Chad", "side": "right", "change": "" },
+{ "name": "Chile", "side": "right", "change": "" }, { "name": "China (Mainland)",
+"side": "right", "change": "1946" }, { "name": "Hong Kong", "side": "left",
+"change": "" }, { "name": "Macau", "side": "left", "change": "" }, { "name":
+"Colombia", "side": "right", "change": "" }, { "name": "Comoros", "side": "right",
+"change": "" }, { "name": "Congo", "side": "right", "change": "" }, { "name": "DR Congo", "side": "right", "change": "" }, { "name": "Costa Rica", "side": "right",
+"change": "" }, { "name": "Ivory Coast", "side": "right", "change": "" }, {
+"name": "Croatia", "side": "right", "change": "1926" }, { "name": "Cuba", "side":
+"right", "change": "" }, { "name": "Cyprus", "side": "left", "change": "" }, {
+"name": "Czech Republic", "side": "right", "change": "1939" }, { "name":
+"Denmark", "side": "right", "change": "1793" }, { "name": "Djibouti", "side":
+"right", "change": "" }, { "name": "Dominica", "side": "left", "change": "" }, {
+"name": "Dominican Republic", "side": "right", "change": "" }, { "name":
+"Ecuador", "side": "right", "change": "" }, { "name": "Egypt", "side": "right",
+"change": "" }, { "name": "El Salvador", "side": "right", "change": "" }, {
+"name": "Equatorial Guinea", "side": "right", "change": "" }, { "name": "Eritrea",
+"side": "right", "change": "1964" }, { "name": "Estonia", "side": "right", "change":
+"" }, { "name": "Eswatini", "side": "left", "change": "" }, { "name":
+"Ethiopia", "side": "right", "change": "1964" }, { "name": "Fiji", "side": "left",
+"change": "" }, { "name": "Finland", "side": "right", "change": "1858" }, {
+"name": "France", "side": "right", "change": "1792" }, { "name": "Gabon", "side":
+"right", "change": "" }, { "name": "Gambia", "side": "right", "change": "1965" }, {
+"name": "Georgia", "side": "right", "change": "" }, { "name": "Germany", "side":
+"right", "change": "" }, { "name": "Ghana", "side": "right", "change": "1974" }, {
+"name": "Greece", "side": "right", "change": "1926" }, { "name": "Grenada",
+"side": "left", "change": "" }, { "name": "Guatemala", "side": "right", "change":
+"" }, { "name": "Guinea", "side": "right", "change": "" }, { "name":
+"Guinea-Bissau", "side": "right", "change": "1928" }, { "name": "Guyana", "side":
+"left", "change": "" }, { "name": "Haiti", "side": "right", "change": "" }, {
+"name": "Honduras", "side": "right", "change": "" }, { "name": "Hungary", "side":
+"right", "change": "1941" }, { "name": "Iceland", "side": "right", "change": "1968"
+}, { "name": "India", "side": "left", "change": "" }, { "name": "Indonesia",
+"side": "left", "change": "" }, { "name": "Iran", "side": "right", "change": "" },
+{ "name": "Iraq", "side": "right", "change": "" }, { "name": "Ireland", "side":
+"left", "change": "" }, { "name": "Israel", "side": "right", "change": "" }, {
+"name": "Italy", "side": "right", "change": "1924–26" }, { "name": "Jamaica",
+"side": "left", "change": "" }, { "name": "Japan", "side": "left", "change":
+"1924" }, { "name": "Jordan", "side": "right", "change": "" }, { "name":
+"Kazakhstan", "side": "right", "change": "" }, { "name": "Kenya", "side": "left",
+"change": "" }, { "name": "Kiribati", "side": "left", "change": "" }, { "name":
+"Kosovo", "side": "right", "change": "" }, { "name": "Kuwait", "side": "right",
+"change": "" }, { "name": "Kyrgyzstan", "side": "right", "change": "" }, { "name":
+"Laos", "side": "right", "change": "" }, { "name": "Latvia", "side": "right",
+"change": "" }, { "name": "Lebanon", "side": "right", "change": "" }, { "name":
+"Lesotho", "side": "left", "change": "" }, { "name": "Liberia", "side": "right",
+"change": "" }, { "name": "Libya", "side": "right", "change": "" }, { "name":
+"Liechtenstein", "side": "right", "change": "" }, { "name": "Lithuania", "side":
+"right", "change": "" }, { "name": "Luxembourg", "side": "right", "change": "" }, {
+"name": "Madagascar", "side": "right", "change": "" }, { "name": "Malawi",
+"side": "left", "change": "" }, { "name": "Malaysia", "side": "left", "change":
+"" }, { "name": "Maldives", "side": "left", "change": "" }, { "name": "Mali",
+"side": "right", "change": "" }, { "name": "Malta", "side": "left", "change": ""
+}, { "name": "Marshall Islands", "side": "right", "change": "" }, { "name":
+"Mauritania", "side": "right", "change": "" }, { "name": "Mauritius", "side":
+"left", "change": "" }, { "name": "Mexico", "side": "right", "change": "" }, {
+"name": "Micronesia", "side": "right", "change": "" }, { "name": "Moldova",
+"side": "right", "change": "" }, { "name": "Monaco", "side": "right", "change": ""
+}, { "name": "Mongolia", "side": "right", "change": "" }, { "name": "Montenegro",
+"side": "right", "change": "" }, { "name": "Morocco", "side": "right", "change": ""
+}, { "name": "Mozambique", "side": "left", "change": "" }, { "name": "Myanmar",
+"side": "right", "change": "1970" }, { "name": "Namibia", "side": "left",
+"change": "1920" }, { "name": "Nauru", "side": "left", "change": "1918" }, {
+"name": "Nepal", "side": "left", "change": "" }, { "name": "Netherlands",
+"side": "right", "change": "1906" }, { "name": "New Zealand", "side": "left",
+"change": "" }, { "name": "Nicaragua", "side": "right", "change": "" }, { "name":
+"Niger", "side": "right", "change": "" }, { "name": "Nigeria", "side": "right",
+"change": "1972" }, { "name": "North Korea", "side": "right", "change": "1946" },
+{ "name": "North Macedonia", "side": "right", "change": "" }, { "name": "Norway",
+"side": "right", "change": "1793" }, { "name": "Oman", "side": "right", "change": ""
+}, { "name": "Pakistan", "side": "left", "change": "" }, { "name": "Palau",
+"side": "right", "change": "" }, { "name": "Palestine", "side": "right", "change":
+"" }, { "name": "Panama", "side": "right", "change": "1943" }, { "name": "Papua New Guinea", "side": "left", "change": "" }, { "name": "Paraguay", "side":
+"right", "change": "1945" }, { "name": "Peru", "side": "right", "change": "" }, {
+"name": "Philippines", "side": "right", "change": "1946" }, { "name": "Poland",
+"side": "right", "change": "1920s" }, { "name": "Portugal", "side": "right",
+"change": "1928" }, { "name": "Qatar", "side": "right", "change": "" }, { "name":
+"Romania", "side": "right", "change": "1919" }, { "name": "Russia", "side": "right",
+"change": "" }, { "name": "Rwanda", "side": "right", "change": "" }, { "name":
+"Saint Kitts and Nevis", "side": "left", "change": "" }, { "name": "Saint Lucia", "side": "left", "change": "" }, { "name": "Saint Vincent and the Grenadines", "side": "left", "change": "" }, { "name": "Samoa", "side": "left",
+"change": "2009" }, { "name": "San Marino", "side": "right", "change": "" }, {
+"name": "São Tomé and Príncipe", "side": "right", "change": "1928" }, { "name":
+"Saudi Arabia", "side": "right", "change": "1942" }, { "name": "Senegal", "side":
+"right", "change": "" }, { "name": "Serbia", "side": "right", "change": "1926" }, {
+"name": "Seychelles", "side": "left", "change": "" }, { "name": "Sierra Leone",
+"side": "right", "change": "1971" }, { "name": "Singapore", "side": "left",
+"change": "" }, { "name": "Slovakia", "side": "right", "change": "1939–41" }, {
+"name": "Slovenia", "side": "right", "change": "1926" }, { "name": "Solomon Islands", "side": "left", "change": "" }, { "name": "Somalia", "side": "right",
+"change": "" }, { "name": "South Africa", "side": "left", "change": "" }, {
+"name": "South Korea", "side": "right", "change": "1946" }, { "name": "South Sudan", "side": "right", "change": "1973" }, { "name": "Spain", "side": "right",
+"change": "1924" }, { "name": "Sri Lanka", "side": "left", "change": "" }, {
+"name": "Sudan", "side": "right", "change": "1973" }, { "name": "Suriname",
+"side": "left", "change": "1920s" }, { "name": "Sweden", "side": "right",
+"change": "1967" }, { "name": "Switzerland", "side": "right", "change": "" }, {
+"name": "Syria", "side": "right", "change": "" }, { "name": "Taiwan", "side":
+"right", "change": "1946" }, { "name": "Tajikistan", "side": "right", "change": "" },
+{ "name": "Tanzania", "side": "left", "change": "" }, { "name": "Thailand",
+"side": "left", "change": "" }, { "name": "Timor-Leste", "side": "left",
+"change": "1976" }, { "name": "Togo", "side": "right", "change": "" }, { "name":
+"Tonga", "side": "left", "change": "" }, { "name": "Trinidad and Tobago",
+"side": "left", "change": "" }, { "name": "Tunisia", "side": "right", "change": ""
+}, { "name": "Turkey", "side": "right", "change": "" }, { "name": "Turkmenistan",
+"side": "right", "change": "" }, { "name": "Tuvalu", "side": "left", "change": ""
+}, { "name": "Uganda", "side": "left", "change": "" }, { "name": "Ukraine",
+"side": "right", "change": "1922" }, { "name": "United Arab Emirates", "side":
+"right", "change": "1966" }, { "name": "United Kingdom", "side": "left", "change":
+"" }, { "name": "United States", "side": "right", "change": "" }, { "name":
+"Uruguay", "side": "right", "change": "1945" }, { "name": "Uzbekistan", "side":
+"right", "change": "" }, { "name": "Vanuatu", "side": "right", "change": "" }, {
+"name": "Vatican City", "side": "right", "change": "" }, { "name": "Venezuela",
+"side": "right", "change": "" }, { "name": "Vietnam", "side": "right", "change": ""
+}, { "name": "Western Sahara", "side": "right", "change": "" }, { "name": "Yemen",
+"side": "right", "change": "1977" }, { "name": "Zambia", "side": "left", "change":
+"" }, { "name": "Zimbabwe", "side": "left", "change": "" } ]
