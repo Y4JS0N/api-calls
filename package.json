@@ -1,0 +1,13 @@
+{
+  "name": "api-calls",
+  "version": "1.0.0",
+  "description": "A simple JSON API deployed on Vercel",
+  "main": "api/data.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "latest"
+  }
+}
