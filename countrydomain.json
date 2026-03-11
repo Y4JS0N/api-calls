@@ -1,5 +1,4 @@
-[
-  { "name": "Abu Dhabi", "domain": ".ae" },
+[ { "name": "Abu Dhabi", "domain": ".ae" },
   { "name": "Afghanistan", "domain": ".af" },
   { "name": "Åland", "domain": ".ax" },
   { "name": "Albania", "domain": ".al" },
@@ -268,5 +267,4 @@
   { "name": "Western Sahara", "domain": ".eh" },
   { "name": "Yemen", "domain": ".ye" },
   { "name": "Zambia", "domain": ".zm" },
-  { "name": "Zimbabwe", "domain": ".zw" }
-]
+  { "name": "Zimbabwe", "domain": ".zw" }]
