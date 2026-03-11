@@ -4,7 +4,7 @@ const path = require('path');
 export default function handler(req, res) {
   try {
     // This points to the root of your project folder
-    const jsonDirectory = path.join(process.cwd(), 'data.json');
+    const jsonDirectory = path.join(process.cwd(), 'countrydomain.json');
     
     // Read the file content
     const fileContents = fs.readFileSync(jsonDirectory, 'utf8');
