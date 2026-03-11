@@ -7,7 +7,7 @@ export default function handler(req, res) {
     const jsonDirectory = path.join(process.cwd(), 'countrydomain.json');
     
     // Read the file content
-    const fileContents = fs.readFileSync(jsonDirectory, 'utf16');
+    const fileContents = fs.readFileSync(jsonDirectory, 'utf');
     
     // Parse the JSON
     const data = JSON.parse(fileContents);
